@@ -7,12 +7,12 @@ This repository contains different implementations of a Library Management Syste
 **Team Name:** Ctrl+Alt+DeFEAT (BSIT 1-2)
 
 **Team Members:**
-- John Christian Tio Linaban
-- Jedidiah Jubal Flores
-- Amylin Franze Reyes
-- Ralph Vincent Dumadapat
-- Zachary Celis
-- Marc Lemuel
+- John Christian Linaban
+- Jedidiah Jubal Tio
+- Amylin Franze Flores
+- Ralph Vincent Reyes
+- Zachary Dumadapat
+- Marc Lemuel Celis
 
 ## File Descriptions
 
