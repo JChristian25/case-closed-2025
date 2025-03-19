@@ -3,6 +3,17 @@
 ## Project Overview
 This repository contains different implementations of a Library Management System developed for the "Case Closed" hackathon competition. The system allows users to add, search, display, check out, and return books in a library.
 
+## Team Information
+**Team Name:** Ctrl+Alt+DeFEAT (BSIT 1-2)
+
+**Team Members:**
+- John Christian Tio Linaban
+- Jedidiah Jubal Flores
+- Amylin Franze Reyes
+- Ralph Vincent Dumadapat
+- Zachary Celis
+- Marc Lemuel
+
 ## File Descriptions
 
 | File Name                        | Description                                                                 |
